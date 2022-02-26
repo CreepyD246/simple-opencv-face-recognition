@@ -1,3 +1,5 @@
+# Youtube Tutorial - https://youtu.be/RrE7Ipr93SA
+
 # Importing all modules
 import face_recognition as fr # To recognize faces
 import numpy as np # To handle all lists/arrays
